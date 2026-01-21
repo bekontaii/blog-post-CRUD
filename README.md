@@ -177,14 +177,7 @@ The API returns appropriate HTTP status codes:
 - `404` - Not Found
 - `500` - Server Error
 
-Error responses follow this format:
-```json
-{
-  "success": false,
-  "message": "Error message",
-  "error": "Detailed error information"
-}
-```
+
 
 ## Technologies Used
 
